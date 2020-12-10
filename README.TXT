@@ -47,18 +47,18 @@ Minimum hardware and software requirements:
 * 3 GB main memory
 * 80 GB hard disk drive (HDD), depending on the volume of the data to be saved temporarily
 * Graphics card, resolution of 1024x768 or more, 24 bit color or at least 8 bit gray output, any nVidia or ATI graphics card with = 256 MB RAM
-* Analog color or grayscale monitor, = 17” for demonstration, high-resolution monitor for diagnostic purposes
+* Analog color or grayscale monitor, = 17ï¿½ for demonstration, high-resolution monitor for diagnostic purposes
 * Windows XP Professional, 32 bit; Windows Vista Professional, 32 or 64 bit; Windows 7 Professional, 32 or 64 bit
 * Adobe Acrobat Reader, version 6.0
 
 
 Recommended hardware and software requirements: 
 
-* CPU Intel(R) Core™ i5
+* CPU Intel(R) Coreï¿½ i5
 * 4 GB main memory 
 * = 500 GB S-ATA II hard disk drive (HDD)
 * Graphics card, resolution of 1280x1024 or more, True Color mode (24 bit) or at least 8 bit gray output, any nVidia or ATI graphics card with = 1 GB RAM 
-* Digital color or grayscale display = 19” for demonstration, high-resolution displays for diagnostic purposes
+* Digital color or grayscale display = 19ï¿½ for demonstration, high-resolution displays for diagnostic purposes
 * Mouse with scroll wheel
 * PostScript printer
 * DELL hardware
@@ -109,14 +109,14 @@ iQ-LITE version 2.8.0 is manufactured by:
 Information regarding the intended use of the software:
 
 iQ-LITE is a portable media image viewer that enables the user to view, manipulate and print images which have been exported from an iQ-VIEW or iQ-VIEW PRO Workstation.
-A copy of iQ-LITE is burned onto every patient CD/DVD and automatically opens when the medium is inserted into the computer’s CD/DVD drive with enabled auto-run function (not possible with memory stick).
+A copy of iQ-LITE is burned onto every patient CD/DVD and automatically opens when the medium is inserted into the computerï¿½s CD/DVD drive with enabled auto-run function (not possible with memory stick).
 
 iQ-LITE provides a convenient way for physicians and other medical professionals to copy and save patient studies/images processed by an iQ-VIEW / PRO Workstation. When providing copies of these studies to referring physicians and/or patients, iQ-LITE provides an integrated, simple way to view the information stored on the CD/DVD/memory stick - without the use of any 3rd party software. 
 
 iQ-LITE is only permitted for diagnostic use if all applicable legal requirements in your country are met. Please consult your authorized local distributor before using the application for diagnostic purposes.
 
 
-END-USER SOFTWARE LICENSE AGREEMENT – REV. 003R
+END-USER SOFTWARE LICENSE AGREEMENT ï¿½ REV. 003R
 
 Scope: iQ-LITE 2.8.0
 
@@ -163,7 +163,7 @@ IMAGE warrants that the Software will perform in accordance with the Documentati
 DISCLAIMER OF WARRANTY & LIMIT OF LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE ABOVE LIMITED WARRANTY IS GIVEN IN LIEU OF ALL OTHER WARRANTIES, REMEDIES AND CONDITIONS, WHETHER ORAL OR WRITTEN, STATUTORY, EXPRESSED OR IMPLIED. IMAGE FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NONINFRINGEMENT TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. IN NO EVENT SHALL IMAGE BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL, PUNITIVE, OR OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, SERVICE INTERRUPTION, LOSS OF INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THIS AGREEMENT OR THE USE OF OR INABILITY TO USE THE SOFTWARE OR DOCUMENTATION, EVEN IF IMAGE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IMAGE'S TOTAL LIABLITY FOR ANY DIRECT DAMAGES SHALL NOT EXCEED FIVE DOLLARS ($5.00). BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION(S) MAY NOT APPLY TO YOU.
 
 6. INDEMNIFICATION
-The Software is not intended to replace the skill and judgement of a qualified medical practitioner and should only be used by people that have been appropriately trained in the Software’s functions, capabilities and limitations. For example, and without limitation, various functions of the Software, including Maximum/Minimum Intensity Projection (MIP) and Multi-Planar Reconstruction (MPR) are intended for use only as an adjunct to two-dimensional medical image display techniques. You agree to hold harmless, indemnify and defend IMAGE, its suppliers, officers, directors and employees, from and against any losses, damages, fines and expenses (including attorneys' fees and costs) arising out of or relating to your use of the Software. THE ENTIRE RISK ARISING OUT OF YOUR USE OF THE SOFTWARE AND DOCUMENTATION REMAINS WITH YOU.
+The Software is not intended to replace the skill and judgement of a qualified medical practitioner and should only be used by people that have been appropriately trained in the Softwareï¿½s functions, capabilities and limitations. For example, and without limitation, various functions of the Software, including Maximum/Minimum Intensity Projection (MIP) and Multi-Planar Reconstruction (MPR) are intended for use only as an adjunct to two-dimensional medical image display techniques. You agree to hold harmless, indemnify and defend IMAGE, its suppliers, officers, directors and employees, from and against any losses, damages, fines and expenses (including attorneys' fees and costs) arising out of or relating to your use of the Software. THE ENTIRE RISK ARISING OUT OF YOUR USE OF THE SOFTWARE AND DOCUMENTATION REMAINS WITH YOU.
 
 7. TERMINATION
 This License Agreement will automatically terminate if you fail to comply with any term hereof. No notice shall be required from IMAGE to effect such termination. You may also terminate this License Agreement at any time by notifying IMAGE in writing of termination. Without prejudice to any other rights, upon any termination of this License Agreement, you shall immediately discontinue use of the Software and Documentation and shall within three (3) days return to IMAGE, or certify destruction of, all full or partial copies of the Software, Documentation and related materials.
@@ -446,7 +446,7 @@ which carries the following copyright notice:
 
 ---------------------------------------------------------------------------------------------------
 
-Multilanguage support was implemented using Frédéric Sigonneau's IniLang component for Delphi
+Multilanguage support was implemented using Frï¿½dï¿½ric Sigonneau's IniLang component for Delphi
 
 ---------------------------------------------------------------------------------------------------
 
